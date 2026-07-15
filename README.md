@@ -96,11 +96,22 @@ Sempre existe um novo desafio, uma nova lógica para entender ou uma nova forma 
 
 ---
 
-# 🌱 Minha jornada
+# 📖 Aprendizado contínuo
 
-Minha curiosidade me levou a explorar diferentes áreas da tecnologia ao longo dos anos, passando por desenvolvimento web, hardware, redes de computadores, lógica de programação, Python, WordPress e outras tecnologias que contribuíram para ampliar minha visão sobre o desenvolvimento de software.
+Ao longo da minha jornada também estudei assuntos como:
 
-Cada novo conhecimento representa uma ferramenta a mais para compreender problemas e construir soluções melhores.
+- Arduino
+- Hardware
+- Redes de Computadores
+- Montagem e Manutenção de Computadores
+- Lógica de Programação
+- Python
+- WordPress
+- WooCommerce
+- Ética em Tecnologia
+- Aplicações Móveis
+
+Acredito que conhecer diferentes áreas da tecnologia me ajuda a desenvolver uma visão mais ampla e a encontrar soluções melhores para os problemas do dia a dia.
 
 ---
 

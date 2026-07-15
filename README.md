@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">Construindo para Evoluir.</h1>
+<h1 align="center">Construindo para Evoluir.</h1>
 
-<p style="text-align: center;">
+<p align="center">
   <i>"Aprender na prática é a melhor forma de evoluir."</i>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   Olá! Eu sou <strong>Henrique Lins</strong>, graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> e atualmente estudante de <strong>Engenharia de Software</strong>.
 </p>
 
@@ -155,9 +155,9 @@ Meu objetivo de longo prazo é atuar como **Desenvolvedor Full Stack**, unindo c
 
 # 📫 Contato
 
-<p style="text-align: left;">
+<p align="left">
 
-<a href="www.linkedin.com/in/henrique-lins-aragao" target="_blank">
+<a href="https://www.linkedin.com/in/henrique-lins-aragao/" target="_blank">
 💼 LinkedIn
 </a>
 
@@ -171,7 +171,7 @@ Meu objetivo de longo prazo é atuar como **Desenvolvedor Full Stack**, unindo c
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Obrigado pela visita! 👋
 

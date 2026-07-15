@@ -159,8 +159,6 @@ Meu objetivo de longo prazo é atuar como **Desenvolvedor Full Stack**, unindo c
 
 - <a href="https://www.linkedin.com/in/henrique-lins-aragao/" target="_blank">💼 LinkedIn</a>
 
-<br>
-
 - <a href="https://henrique-aragao.github.io/portfolio-profissional/" target="_blank">🌐 Portfólio</a>
 
 </p>
